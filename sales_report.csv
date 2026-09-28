@@ -1,0 +1,17 @@
+SALES ANALYSIS REPORT
+
+SUMMARY
+Source File,sales.csv
+Total Products,4
+Total Quantity,20
+Total Sales,146000.0
+Best Product,Laptop
+Highest Sale,90000.0
+Average Revenue Per Item,7300.0
+
+PRODUCT-WISE SALES
+Product,Sales
+Laptop,90000.0
+Mouse,5000.0
+Keyboard,6000.0
+Monitor,45000.0
